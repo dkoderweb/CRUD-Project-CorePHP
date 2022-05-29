@@ -1,0 +1,59 @@
+ .container_style{
+     background-color: gray;
+     /* height: 70vh; */
+     margin: 5% 10% 5% 10%;
+     border-radius: 0px 200px 0px 200px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     padding: 20px;
+     flex-direction: column;
+ }
+ .table{
+     width: 140%;
+ }
+ .dataTables_wrapper .dataTables_filter {
+    float: right;
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+ .btn{
+     background-color:blue;
+     border-radius: 0px  100px 100px  100px;
+     /* margin-top: 18px; */
+ }
+ .btn-danger{
+    border-radius: 0px  100px 100px  100px;
+    /* margin-top: 18px; */
+    padding: 3px 10px;
+ }
+ .btn:hover{
+     background-color: darkblue;
+ }
+ .add_text{
+     padding: 0px 8px ;
+ }
+
+ .form_style{
+      width: 50%;
+ }
+
+ .form-control{
+     border: none;
+ }
+
+ textarea{
+     width: 100%;
+ }
+
+ .nav_button_style:hover{
+       border: 2px solid white;
+       border-radius: 50px;
+
+ }
+
+ .nav_button_style{
+     margin: 0px 5px;
+     padding: 0px 5px;
+ }
